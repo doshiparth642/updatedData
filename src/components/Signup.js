@@ -15,6 +15,7 @@ const Signup = () => {
     var value = get(object, 'a.b', 'default')
     console.log(value)
     console.log('Parth Doshi')
+    console.log('smit doshi')
 
 
 
