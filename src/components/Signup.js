@@ -15,7 +15,7 @@ const Signup = () => {
     var value = get(object, 'a.b', 'default')
     console.log(value)
 
-
+    console.log('hello how are you?')
 
 
     /*let fullName = 'PARTH DOSHI'
