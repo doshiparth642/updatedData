@@ -17,6 +17,8 @@ const Signup = () => {
 
 
 
+
+
     /*let fullName = 'PARTH DOSHI'
     fullName = fullName.split(' ')
     document.write(fullName)
